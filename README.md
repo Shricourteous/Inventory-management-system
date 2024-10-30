@@ -1,24 +1,10 @@
 # 📦 Inventory Management System
 
-![Inventory Management System](./path/to/your/image.png) <!-- Replace with the path to your project image -->
-
 ---
 
 ## 📝 Description
 
 The **Inventory Management System** is a user-friendly web application designed to help businesses efficiently manage their inventory. It allows users to **add**, **update**, **delete**, and **view products**, providing an intuitive interface for tracking stock levels, orders, and supplier information.
-
----
-
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
